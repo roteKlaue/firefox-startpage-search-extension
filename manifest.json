@@ -12,7 +12,9 @@
       "name": "Startpage search",
       "keyword": "@startpage",
       "favicon_url": "https://www.startpage.com/favicon.ico",
-      "search_url": "https://www.startpage.com/do/dsearch?query={searchTerms}"
+      "search_url": "https://www.startpage.com/do/dsearch?query={searchTerms}&cat=web",
+      "suggest_url": "https://www.startpage.com/suggestions?q={searchTerms}&format=opensearch",
+      "favicon_url": "https://www.startpage.com/favicon.ico"
     }
   },
   "browser_specific_settings": {
