@@ -19,7 +19,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "StartpageSearchExtension@roteKlaue",
-      "strict_min_version": "55.0"
+      "strict_min_version": "64.0"
     }
   },
   "author": "roteKlaue",
