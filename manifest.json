@@ -3,7 +3,7 @@
   "name": "Startpage search",
   "short_name": "st_search",
   "description": "Adds Startpage search as a search engine.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icons": {
     "64": "icons/sp-icon.png"
   },
@@ -11,7 +11,6 @@
     "search_provider": {
       "name": "Startpage search",
       "keyword": "@startpage",
-      "favicon_url": "https://www.startpage.com/favicon.ico",
       "search_url": "https://www.startpage.com/do/dsearch?query={searchTerms}&cat=web",
       "suggest_url": "https://www.startpage.com/suggestions?q={searchTerms}&format=opensearch",
       "favicon_url": "https://www.startpage.com/favicon.ico"
